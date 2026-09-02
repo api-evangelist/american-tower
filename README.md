@@ -1,8 +1,8 @@
 # American Tower — removed at the company's request
 
 American Tower Corporation asked to be removed from the API Evangelist network and the
-APIs.io catalog on **2026-08-31**. The request came from Maritza Ramirez of American
-Tower's Cybersecurity organization, and it was honored the same day.
+APIs.io catalog on **2026-08-31**. The request came from American Tower's Cybersecurity
+organization, and it was honored the same day.
 
 Everything that was here is gone: the `apis.yml` descriptor, the scoring artifacts, the
 blog and press pulls, the screenshots and the search records. American Tower has **no
